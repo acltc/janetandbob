@@ -1,1 +1,3 @@
-"Janet was very patient with Bob when he screwed up the project."
+"Janet was very patient with Bob when he screwed up the project.
+
+You did great Bob! look at us contributing to the same file :)
